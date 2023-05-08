@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-multi-threading-stopwatches
+<br>
+Write a JAVA program that would simulate a number of stopwatches (e.g. 4 stopwatches) times using the concept of Multithreading. The time of stopwatches increase on their own. Moreover, a stopwatch’s time can be increased and decreased using specified keys from the keyboard. Please note that, initially the time in each stopwatch would be zero. The time of all the stopwatches should be displayed in the screen in both text format and graphically. For each stopwatch design a GUI in circular shaped (like real stopwatch) for the graphical representation of time.
